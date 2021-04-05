@@ -1,6 +1,6 @@
 # Tools
 
-Hi !(https://raw.githubusercontent.com/blankmagic/surge/main/IMG/hi.gif)
+Hi ![image](https://raw.githubusercontent.com/blankmagic/surge/main/IMG/hi.gif)
 
 License
 -
