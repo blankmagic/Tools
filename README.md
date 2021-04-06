@@ -1,6 +1,7 @@
-# Tools
+# Knowledge is infinite
 
-### ***Hi*** <img src="https://raw.githubusercontent.com/blankmagic/surge/main/IMG/hi.gif" width="25px">
+### ***Hello world*** <img src="https://raw.githubusercontent.com/blankmagic/surge/main/IMG/hi.gif" width="25px">
+
 
 License
 -
