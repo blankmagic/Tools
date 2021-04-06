@@ -1,6 +1,6 @@
-# Knowledge is infinite
+# Hello world
 
-### ***Hello world*** <img src="https://raw.githubusercontent.com/blankmagic/surge/main/IMG/hi.gif" width="25px">
+ <img src="https://raw.githubusercontent.com/blankmagic/surge/main/IMG/hi.gif" width="25px">
 
 
 License
