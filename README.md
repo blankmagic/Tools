@@ -1,7 +1,6 @@
 # Hello world
 
- <img src="https://raw.githubusercontent.com/blankmagic/blankmagic/main/IMG/github-code.gif" width="250px">
-
+<img align='right' src="https://raw.githubusercontent.com/blankmagic/blankmagic/main/IMG/github-code.gif" width="230">
 
 License
 -
